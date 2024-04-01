@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FA7070&text=Working Space&fontAlign=72&fontSize=60&fontAlignY=80&fontColor=F9EFDB" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FA7070&text=Working%20Space&fontAlign=72&fontSize=60&fontAlignY=80&fontColor=F9EFDB" />
 
 <br>
 안녕하세요, O!E Women 여러분 🫡 💛
@@ -12,4 +12,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FA7070&section=footer&text=from.O!E Women&fontAlign=89&fontAlignY=30&fontSize=20&fontColor=F9EFDB" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FA7070&section=footer&text=from.O!E%20Women&fontAlign=89&fontAlignY=30&fontSize=20&fontColor=F9EFDB" />
