@@ -7,9 +7,9 @@
 
 <div align="right"><sup>*4개의 뱃지 중 하나만 남기고 지워주세요.</sup></div>
 
-<div style="border: 1px dashed gray; padding: 10px;">
+<hr style="border-style: dashed;">
 여기에 한줄평을 써주세요. 여기는 다른 누군가의 집이라서 제 방보다 엄청 깔끔하네요. 여기서 일하면 일이 잘될 것 같지만 깔끔함을 유지하기가 쉽지 않아요. 이러쿵 저러쿵.
-</div>
+<hr style="border-style: dashed;">
 
 <br>
 
