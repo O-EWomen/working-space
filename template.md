@@ -45,7 +45,12 @@
 
 <div align="right"><sub>*3개의 뱃지 중 하나만 남기고 지워주세요.</sub></div>
 
+#### 👉 가격
 
+e.g. 1박에 평일 기준 N만원 정도입니다.
+e.g. 아이스 아메리카노를 마셨는데 5천원 정도 했어요.
+
+<div align="right"><sub>*지불했던 비용이 있다면 남겨주세요.</sub></div>
 
 ---
 ### 업무를 위한 추가 정보
@@ -76,9 +81,9 @@
 
 #### 👉 결제 방식
 
-![YES](https://img.shields.io/badge/법인카드%20가능해요-1AACAC?style=for-the-badge&&logoColor=white)
-![SOME](https://img.shields.io/badge/간편결제%20가능해요-176B87?style=for-the-badge&&logoColor=white)
-![NO](https://img.shields.io/badge/현금만%20가능해요-04364A?style=for-the-badge&&logoColor=white)
+![법인카드](https://img.shields.io/badge/법인카드%20가능해요-1AACAC?style=for-the-badge&&logoColor=white)
+![간편결제](https://img.shields.io/badge/간편결제%20가능해요-176B87?style=for-the-badge&&logoColor=white)
+![현금결제](https://img.shields.io/badge/현금%20가능해요-04364A?style=for-the-badge&&logoColor=white)
 
 <div align="right"><sub>*3개의 뱃지 중 해당하는 뱃지만 남기고 지워주세요.</sub></div>
 
